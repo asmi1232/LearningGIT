@@ -1,0 +1,12 @@
+/* Basic Commands */
+git add .
+git add* .
+git push
+git status
+git --info
+git --list
+git --version
+git config global user.name "Vinoth"
+git config global user.email "abc@gmail.com"
+git config local user.name "Asmi"
+
